@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @InfallibleA
-- 👀 I’m interested in .NET, UWP, WinUI 3.0, ASP.NET
-- 🌱 I’m currently learning ASP.NET and UWP.
-- 💞️ I’m looking to collaborate on ASP.NET and WinUI 3.0
+- 👀 I’m interested in .NET, UWP, WinUI 3.0, ASP.NET, Qt
+- 🌱 I’m currently learning Qt and WinUI 3.0.
+- 💞️ I’m looking to collaborate on UWP, WinUI 3.0 and Qt
 - 📫 How to reach me - 📱💻 my  telegram @Infallible_Afflatus
 
 <!---
