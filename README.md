@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @InfallibleA
-- 👀 I’m interested in .NET, UWP, WinUI 3.0, ASP.NET, Qt, Python
-- 🌱 I’m currently learning Python FastAPI
+- 👀 I’m interested in Python, Fast API, Flutter, .NET, WinUI 3.0, Qt
 - 📫 How to reach me - 📱💻 my  telegram @InfallibleA
 
 <!---
